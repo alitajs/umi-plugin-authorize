@@ -1,0 +1,35 @@
+{
+  "name": "umi-plugin-authorize",
+  "version": "0.0.2",
+  "description": "configure authorize",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaohuoni/umi-plugin-authorize"
+  },
+  "homepage": "https://github.com/xiaohuoni/umi-plugin-authorize",
+  "authors": [
+    "xiaohuoni <448627663@qq.com>"
+  ],
+  "bugs": {
+    "url": "https://github.com/xiaohuoni/umi-plugin-authorize/issues"
+  },
+  "peerDependencies": {
+    "umi": "2.x"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "umi-tools build",
+    "publish": "npm run build && npm publish"
+  },
+  "devDependencies": {
+    "umi-tools": "*"
+  },
+  "files": [
+    "lib",
+    "src"
+  ],
+  "dependencies": {
+    "assert": "^1.4.1"
+  }
+}
