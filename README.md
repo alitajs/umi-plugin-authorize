@@ -1,7 +1,7 @@
 # umi-plugin-authorize
 
-[![NPM version](https://img.shields.io/npm/v/authorize.svg?style=flat)](https://npmjs.org/package/authorize)
-[![NPM downloads](http://img.shields.io/npm/dm/authorize.svg?style=flat)](https://npmjs.org/package/authorize)
+[![NPM version](https://img.shields.io/npm/v/umi-plugin-authorize.svg?style=flat)](https://npmjs.org/package/umi-plugin-authorize)
+[![NPM downloads](http://img.shields.io/npm/dm/umi-plugin-authorize.svg?style=flat)](https://npmjs.org/package/umi-plugin-authorize)
 
 configure authorize
 
