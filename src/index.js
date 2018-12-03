@@ -33,7 +33,6 @@ function patchRoutes(routes, authorize) {
 }
 export default function(api, opts={}) {
   api.modifyRoutes(routes => {
-    console.log(routes)
     if (opts.authorize) {
       assert(
         Array.isArray(opts.authorize),
